@@ -11,5 +11,4 @@ def main():
         else:
          print("Invaild")
         email=input('Email:')
-
 main()
